@@ -70,7 +70,8 @@ The dataset includes information related to:
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard](./Insurance%20Project.png)
+<img width="2575" height="1559" alt="Insurance Project_page-0001" src="https://github.com/user-attachments/assets/2d383da9-04d8-48b6-860e-7a9d4f3bc5a3" />
+
 
 ---
 
